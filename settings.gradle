@@ -1,0 +1,3 @@
+include ':LiteAdapter'
+include ':app'
+rootProject.name = "LiteRecyclerView"
